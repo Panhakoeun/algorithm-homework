@@ -79,7 +79,7 @@ print(sum)
 ~~~
 ##### Output: `27`
 
-8. Find even numbers in array:
+7. Find even numbers in array:
 
 **Code**
 ~~~python
@@ -90,7 +90,7 @@ for value in arr:
 ~~~
 ##### Output: `8 4`
 
-9. Find Minimum of numbers in array:
+8. Find Minimum of numbers in array:
 
 **Code**
 ~~~python
@@ -102,7 +102,7 @@ for value in arr:
 print(min)
 ~~~
 ##### Output: `3`
-10. Move number one to one step to right:
+9. Move number one to one step to right:
 
 **Code**
  ~~~python
@@ -116,7 +116,7 @@ print(min)
 print(arr)
  ~~~
  ##### Output: `[0, 0, 0, 1, 0]`
-11. Move number one to one step to left:
+10. Move number one to one step to left:
 
 **Code**
 ~~~python
@@ -131,7 +131,7 @@ print(arr)
 ~~~
 ##### Output: `[0, 1, 0, 0, 0]`
 
-12. Find Maximum of numbers in array:
+11. Find Maximum of numbers in array:
 
 **Code**
 ~~~python
@@ -143,7 +143,7 @@ for value in arr:
 print(max)
 ~~~
 ##### Output: `40`
-13. Sum value in row array2D:
+12. Sum value in row array2D:
 
 **Code**
 ~~~python
